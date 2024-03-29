@@ -13,7 +13,6 @@
 //             secret.access_token,
 //             {  expiresIn:process.env.NODE_ENV != 'PRODUCTION' ? '99999m' : '15s' }
 
-
 //         );
 //         return token;
 //     }
